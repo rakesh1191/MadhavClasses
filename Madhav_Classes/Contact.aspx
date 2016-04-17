@@ -38,14 +38,13 @@
                   <div class="panel panel-primary col-lg-12 col-md-12 col-sm-12 col-xs-12 border">
                       <div class="panel-heading col-lg-12 col-md-12 col-sm-12 col-xs-12 border">Leave us a Message</div>
                       <div class="panel-body col-lg-12 col-md-12 col-sm-12 col-xs-12 border">
-                        <form action="sendmail.php" method="POST">
                           <input name="firstname" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 border form-control" placeholder="First Name" />
-                          <input name="lastname" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 border form-control" placeholder="Last Name" />
-                          <input name="email"  class="col-lg-12 col-md-12 col-sm-12 col-xs-12 border form-control" type="Email" placeholder="Email" />
-                          <input name="subject"  class="col-lg-12 col-md-12 col-sm-12 col-xs-12 border form-control" placeholder="Subject" />
-                          <textarea name="message" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 border form-control" rows="4" placeholder="Message"></textarea>
-                          <button type="Submit" value="Submit" class="btn btn-primary margin2 text-center center-block">Send</button>
-                        </form>
+                          <asp:TextBox ID="FirstName" runat="server" CssClass="form-control" />
+                          <asp:TextBox ID="LastName" runat="server" CssClass="form-control" />
+                          <asp:TextBox ID="Email" runat="server" TextMode="Email" CssClass="form-control" />
+                          <asp:TextBox ID="Subject" runat="server" CssClass="form-control" />
+                          <asp:TextBox ID="Message" runat="server" TextMode="MultiLine" CssClass="form-control" />
+                          <asp:Button ID="Send" runat="server" Text="Send" CssClass="btn btn-primary" OnClick="Send_Click" />
                       </div>
                </div>
               </div>

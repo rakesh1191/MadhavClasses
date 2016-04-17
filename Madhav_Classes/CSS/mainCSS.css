@@ -1,0 +1,49 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Roboto);
+@font-face { font-family: 'Josefin Sans', sans-serif;   src: url(https://fonts.googleapis.com/css?family=Josefin+Sans:600);}
+//<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:600' rel='stylesheet' type='text/css'>
+.fontRoboto {font-family: 'Roboto', sans-serif;}
+
+/*Modifying navbar
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:10px !important;
+    padding-bottom:0 !important;
+    height: 40px;
+}
+.navbar {min-height:40px !important;}
+End Modifying navbar*/
+.footer {
+   bottom:0px;
+   width:100%;
+   position:relative;
+}
+datalist ItemTemplate{ height:20px; width:20px; }
+body { min-height:100%; height:100%; font-family: 'Josefin Sans', sans-serif; }
+.marginTop33 {margin-top:33%;}
+//.border { border:solid 1px black;}
+.colorWhiteFront { color:white;}
+.colorRedBackground { background:#F16745; }
+.colorRedFront { color:#F16745; }
+.colorYellowBackground { background:#FC65D5; }
+.colorYellowFront { color:#FFC65D; }
+.colorGreenBackground { background:#7BC8A4; }
+.colorGreenFront { color:#7BC8A4; }
+.colorBlueBackground { background:#4CC3D9; }
+.colorBlueFront { color:#4CC3D9; }
+.colorPurpleBackground { background:#93648D; }
+.colorPurpleFront { color:#93648D; }
+.colorBlackBackground { background:#404040; }
+.colorBlackFront { color:#404040; }
+.fontSize100 { font-size:100%;}
+.fontSize50 { font-size:50%;}
+.fontSize1em { font-size:1em;}
+.fontSizeOneHalfem { font-size:1.5em;}
+.fontSize2em { font-size:2em;}
+.fontSize3em { font-size:3em;}
+.fontSize4em { font-size:4em;}
+.fontSize5em { font-size:5em;}
+.margin1{margin-top:1%;}
+.marginTop2 { margin-top:2%;}
+.margin5 { margin-top:5%;}
+.margin10 { margin-top:10%;}
+body {
+}

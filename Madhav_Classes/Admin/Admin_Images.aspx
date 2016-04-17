@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master_pages/Admin.Master" AutoEventWireup="true" CodeBehind="AdminImages.aspx.cs" Inherits="Madhav_Classes.Admin.AdminImages" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master_pages/Admin.Master" AutoEventWireup="true" CodeBehind="Admin_Images.aspx.cs" Inherits="Madhav_Classes.Admin.AdminImages" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">

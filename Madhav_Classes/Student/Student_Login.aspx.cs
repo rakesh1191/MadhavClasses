@@ -26,6 +26,9 @@ namespace Madhav_Classes
                 Session["studentEmail"] = studentEmail.Text;
                 Response.Redirect("Student_Home.aspx");
             }
+            else {
+                Invalid.Visible = true;
+            }
         }
     }
 }

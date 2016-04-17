@@ -35,7 +35,7 @@ namespace Madhav_Classes
                 //Process Image
                 String studentProfileImage = dt.Rows[0]["studentProfileImage"].ToString();
                 if (studentProfileImage == "") {
-                    studentImage.ImageUrl = "../images/default.png";
+                    studentImage.ImageUrl = "../images/profile_images/default.png";
                 }
                 else {
                     studentImage.ImageUrl = studentProfileImage;

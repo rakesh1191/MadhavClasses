@@ -55,11 +55,11 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="index.aspx">Home</a></li>
-        <li><a href="Gallery.aspx">Photo Gallery</a></li>
-        <li><a href="About.aspx">Video Gallery</a></li>
-        <li><a href="Contact.aspx">Contact</a></li>
-        <li><a href="Location.aspx">Locationt</a></li>
+        <li><a href="Admin_Home.aspx">Home</a></li>
+        <li><a href="Admin_Images.aspx">Photo Gallery</a></li>
+        <li><a href="Admin_Video.aspx">Video Gallery</a></li>
+        <li><a href="Admin_Logout.aspx">Logout</a></li>
+
       </ul>
       </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->

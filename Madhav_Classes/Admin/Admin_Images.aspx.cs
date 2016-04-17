@@ -12,11 +12,19 @@ namespace Madhav_Classes.Admin
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            String getImages = String.Format("select * from adminImages");
-            DataTable dt = MainClass.getData(getImages);
+            //Check weather session variable null or not
+            if (Session["adminEmail"] != null)
+            {
+                String getImages = String.Format("select * from adminImages");
+                DataTable dt = MainClass.getData(getImages);
 
-            imageList.DataSource = dt;
-            imageList.DataBind();
+                imageList.DataSource = dt;
+                imageList.DataBind();
+            }
+            else
+            {
+                Response.Redirect("Admin_Login.aspx");
+            }
         }
 
         protected void UploadImage_Click(object sender, EventArgs e)

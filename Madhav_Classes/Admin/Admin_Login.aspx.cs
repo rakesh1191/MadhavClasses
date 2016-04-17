@@ -17,11 +17,12 @@ namespace Madhav_Classes.Admin
 
         protected void Login_Click(object sender, EventArgs e)
         {
-            String sql = String.Format("select * from admins where adminEmail = '{0}' and adminPassword = '{1}'", adminEmail.Text, adminPassword.Text);
+            String sql = String.Format("select * from adminsList where adminEmail = '{0}' and adminPassword = '{1}'", adminEmail.Text, adminPassword.Text);
             DataTable dt = MainClass.getData(sql);
 
             if (dt.Rows.Count!=0) {
-                Response.Redirect("AdminHome.aspx");
+                Session["adminEmail"] = adminEmail.Text;
+                Response.Redirect("Admin_Home.aspx");
             }
         }
     }

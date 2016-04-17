@@ -22,7 +22,7 @@ namespace Madhav_Classes
 
                 String professorProfileImage = dt.Rows[0]["professorProfileImage"].ToString();
                 if (professorProfileImage == null) {
-                    professorImage.ImageUrl = "../images/default.png";
+                    professorImage.ImageUrl = "../images/profile_images/default.png";
                 }
                 else {
                     professorImage.ImageUrl = professorProfileImage;

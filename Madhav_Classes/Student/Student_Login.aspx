@@ -28,10 +28,14 @@
                         <div class="panel-body">
                             <asp:TextBox CssClass="form-control marginTop2" TextMode="Email" ID="studentEmail" runat="server" placeholder="Email" required/>
                             <asp:TextBox CssClass="form-control marginTop2" TextMode="Password" ID="studentPassword" runat="server" placeholder="Password" required/>
-                            <asp:Button OnClick="Login_Click" CssClass="btn btn-primary marginTop2" ID="Login" runat="server" Text="Login" />
-                            <a href="Student_Register.aspx" class="btn btn-primary pull-right marginTop2">Register</a>
-                            <br />
-                            <a class=" marginTop2" href="#">Forgot Password?</a>
+                            <div class="col-lg-12">
+                                <asp:Button OnClick="Login_Click" CssClass="btn btn-primary marginTop2" ID="Login" runat="server" Text="Login" />
+                                <a href="Student_Register.aspx" class="btn btn-primary pull-right marginTop2">Register</a>
+                            </div>
+                            <div class="col-lg-12">
+                                <asp:Label style="color:red;" ID="Invalid" runat="server" Visible="false" Text="Invalid Id/Password" />
+                                <a class="pull-right marginTop2" href="#">Forgot Password?</a>
+                            </div>
                         </div>
                     </div>
 

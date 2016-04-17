@@ -39,7 +39,7 @@ namespace Madhav_Classes
                     String studentProfileImage = dt.Rows[0]["studentProfileImage"].ToString();
                     if (studentProfileImage == "")
                     {
-                        studentImage.ImageUrl = "../images/default.png";
+                        studentImage.ImageUrl = "../images/profile_images/default.png";
                     }
                     else
                     {
@@ -77,7 +77,7 @@ namespace Madhav_Classes
                 {
 
                     //Save image to filesystem
-                    string q = "../images/ImageGallery/" + studentImageUpload.FileName;
+                    string q = "../images/profile_images/" + studentImageUpload.FileName;
                     studentImageUpload.SaveAs(MapPath(q));
 
                     //Save path to database

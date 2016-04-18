@@ -48,8 +48,7 @@
                       </div>
                </div>
               </div>
-              <!--Google+-->
-              <!-- Update your html tag to include the itemscope and itemtype attributes. -->
+               <!-- Update your html tag to include the itemscope and itemtype attributes. -->
 
       </div>
     </section>

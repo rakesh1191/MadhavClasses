@@ -87,5 +87,35 @@ namespace Madhav_Classes
             finally
             { con.Close(); }
         }
+        public static int getIdFromEmail(String Email) {
+            int id;
+            String sql = String.Format("select prfessorId from professors where professorEmail= '{0}' ", Email);
+            DataTable dt = getData(sql);
+
+
+            id = Int32.Parse(dt.Rows[0]["professorId"].ToString());
+
+            //Clean
+            sql = "";
+            dt = null;
+
+            return id;
+        }
+        public static String getIdFromEmail(int id)
+        {
+            String Email;
+            String sql = String.Format("select prfessorEmail from professors where professorId= '{0}' ", id);
+            DataTable dt = getData(sql);
+
+            
+            Email = dt.Rows[0]["professorId"].ToString();
+
+            //clean
+            sql = "";
+            dt = null;
+
+            return Email;
+        }
+
     }
 }

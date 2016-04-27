@@ -141,6 +141,7 @@
     <Content Include="Professor\Professor_EditProfile.aspx" />
     <Content Include="Professor\Professor_Profile.aspx" />
     <Content Include="Professor\Professor_Logout.aspx" />
+    <Content Include="Professor\Professor_MakeTest.aspx" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Student\Student_Register.aspx" />
@@ -279,6 +280,13 @@
     </Compile>
     <Compile Include="Professor\Professor_Logout.aspx.designer.cs">
       <DependentUpon>Professor_Logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Professor\Professor_MakeTest.aspx.cs">
+      <DependentUpon>Professor_MakeTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Professor\Professor_MakeTest.aspx.designer.cs">
+      <DependentUpon>Professor_MakeTest.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Master_pages\Student.Master.cs">

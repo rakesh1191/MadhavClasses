@@ -1,0 +1,53 @@
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\ApplicationInsights.config
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\MadhavClasses.dll.config
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\MadhavClasses.dll
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\MadhavClasses.pdb
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.Web.dll
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.WindowsServer.dll
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.ApplicationInsights.dll
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.Web.xml
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.AI.WindowsServer.xml
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\Microsoft.ApplicationInsights.xml
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\obj\Debug\MadhavClasses.csprojResolveAssemblyReference.cache
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\obj\Debug\MadhavClasses.dll
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\obj\Debug\MadhavClasses.pdb
+c:\users\milin joshi\documents\visual studio 2015\Projects\MadhavClasses\MadhavClasses\bin\MySql.Data.dll
+D:\website\MadhavClasses\MadhavClasses\bin\ApplicationInsights.config
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\csc.exe
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\System.Collections.Immutable.dll
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\System.Reflection.Metadata.dll
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\vbc.exe
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\VBCSCompiler.exe
+D:\website\MadhavClasses\MadhavClasses\bin\roslyn\VBCSCompiler.exe.config
+D:\website\MadhavClasses\MadhavClasses\bin\MadhavClasses.dll.config
+D:\website\MadhavClasses\MadhavClasses\bin\MadhavClasses.dll
+D:\website\MadhavClasses\MadhavClasses\bin\MadhavClasses.pdb
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.Agent.Intercept.dll
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.DependencyCollector.dll
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.Web.dll
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.WindowsServer.dll
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.ApplicationInsights.dll
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.DependencyCollector.xml
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.Web.xml
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.AI.WindowsServer.xml
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.ApplicationInsights.xml
+D:\website\MadhavClasses\MadhavClasses\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\website\MadhavClasses\MadhavClasses\obj\Debug\MadhavClasses.csprojResolveAssemblyReference.cache
+D:\website\MadhavClasses\MadhavClasses\obj\Debug\MadhavClasses.dll
+D:\website\MadhavClasses\MadhavClasses\obj\Debug\MadhavClasses.pdb
